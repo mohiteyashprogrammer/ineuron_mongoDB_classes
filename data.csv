@@ -1,0 +1,14 @@
+_id,cource_name,cource_instructor,start_date,duration,mode,certification,mockinterview,price
+63cfd0cb1295d9df24ec0917,"['Data Science', 'Data Analytics', 'Web Developement', 'Big Data', 'Devops']","['sudhanshu', 'anand', 'shashank', 'hitesh', 'navin']",-2024,eight months,online ,yes,yes,17000
+63cfd0cb1295d9df24ec0918,"['Data Science', 'Data Analytics', 'Web Developement', 'Big Data', 'Devops']","['sudhanshu', 'anand', 'shashank', 'hitesh', 'navin']",-2000,eight months,offline,yes,yes,17000
+63cfd0cb1295d9df24ec091a,"['Data Science', 'Data Analytics', 'Web Developement', 'Big Data', 'Devops']","['sudhanshu', 'anand', 'shashank', 'hitesh', 'navin']",-2018,nine months,online,yes,yes,18000
+63cfd0cb1295d9df24ec091c,"['Data Science', 'Data Analytics', 'Web Developement', 'Big Data', 'Devops']","['sudhanshu', 'anand', 'shashank', 'hitesh', 'navin']",-2026,one year,online,yes,yes,17000
+63cfd5b81295d9df24ec0921,"['Data Science', 'Data Analytics', 'Web Developement', 'Big Data', 'Devops']","['sudhanshu', 'anand', 'shashank', 'hitesh', 'navin']",-2024,eight months,online ,yes,yes,17000
+63cfd5b81295d9df24ec0922,"['Data Science', 'Data Analytics', 'Web Developement', 'Big Data', 'Devops']","['sudhanshu', 'anand', 'shashank', 'hitesh', 'navin']",-2000,eight months,offline,yes,yes,17000
+63cfd5b81295d9df24ec0924,"['Data Science', 'Data Analytics', 'Web Developement', 'Big Data', 'Devops']","['sudhanshu', 'anand', 'shashank', 'hitesh', 'navin']",-2018,nine months,online,yes,yes,18000
+63cfd5b81295d9df24ec0926,"['Data Science', 'Data Analytics', 'Web Developement', 'Big Data', 'Devops']","['sudhanshu', 'anand', 'shashank', 'hitesh', 'navin']",-2026,one year,online,yes,yes,17000
+63cfd5cdbedd7d3eb3f0a84c,"['Data Science', 'Data Analytics', 'Web Developement', 'Big Data', 'Devops']","['sudhanshu', 'anand', 'shashank', 'hitesh', 'navin']",-2024,eight months,online ,yes,yes,17000
+63cfd5cdbedd7d3eb3f0a84d,"['Data Science', 'Data Analytics', 'Web Developement', 'Big Data', 'Devops']","['sudhanshu', 'anand', 'shashank', 'hitesh', 'navin']",-2000,eight months,offline,yes,yes,17000
+63cfd5cdbedd7d3eb3f0a84f,"['Data Science', 'Data Analytics', 'Web Developement', 'Big Data', 'Devops']","['sudhanshu', 'anand', 'shashank', 'hitesh', 'navin']",-2018,nine months,online,yes,yes,18000
+63cfd5cdbedd7d3eb3f0a851,"['Data Science', 'Data Analytics', 'Web Developement', 'Big Data', 'Devops']","['sudhanshu', 'anand', 'shashank', 'hitesh', 'navin']",-2026,one year,online,yes,yes,17000
+63cfd5cdbedd7d3eb3f0a852,"['Data Science', 'Data Analytics', 'Web Developement', 'Big Data', 'Devops']","['sudhanshu', 'anand', 'shashank', 'hitesh', 'navin']",-2027,nine months,offline,yes,yes,25000
